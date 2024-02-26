@@ -10,23 +10,24 @@
 //-->
 
 
-<!-- for top_panel
+<!-- for top_panel //-->
 <margins>
 	<top>48</top>
 	<bottom>8</bottom>
 	<left>8</left>
 	<right>8</right>
 </margins>
-//-->
 
 
 <!-- for bottom_panel //-->
+<!--
 <margins>
 	<top>8</top>
 	<bottom>48</bottom>
 	<left>8</left>
 	<right>8</right>
 </margins>
+//-->
 
 
 <!--

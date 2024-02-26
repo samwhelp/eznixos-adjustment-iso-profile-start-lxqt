@@ -65,4 +65,4 @@ Exec=plank
 Icon=plank
 Terminal=false
 NoDisplay=false
-OnlyShowIn=XFCE;
+OnlyShowIn=lxqt;
