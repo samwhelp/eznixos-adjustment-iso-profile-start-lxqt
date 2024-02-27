@@ -1920,7 +1920,7 @@ h l
 				<enabled>true</enabled>
 				<name>Terminal</name>
 			</startupnotify>
-			<command>qterminal</command>
+			<command>sakura --maximize</command>
 		</action>
 	</keybind>
 
@@ -1933,7 +1933,7 @@ h l
 				<enabled>true</enabled>
 				<name>Terminal</name>
 			</startupnotify>
-			<command>qterminal</command>
+			<command>sakura --maximize</command>
 		</action>
 	</keybind>
 
@@ -1943,7 +1943,7 @@ h l
 				<enabled>true</enabled>
 				<name>Terminal</name>
 			</startupnotify>
-			<command>sakura -m</command>
+			<command>qterminal</command>
 		</action>
 	</keybind>
 
@@ -2037,13 +2037,19 @@ h l
 
 
 	<!-- ## Text Editor //-->
+
+
+
+
+
+	<!-- ## Text Editor //-->
 	<keybind key="A-S-e">
 		<action name="Execute">
 			<startupnotify>
 				<enabled>true</enabled>
 				<name>TextEditor</name>
 			</startupnotify>
-			<command>featherpad</command>
+			<command>mousepad</command>
 		</action>
 	</keybind>
 

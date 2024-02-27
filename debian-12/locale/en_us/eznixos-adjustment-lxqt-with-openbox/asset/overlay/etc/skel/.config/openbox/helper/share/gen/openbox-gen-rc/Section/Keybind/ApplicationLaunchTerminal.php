@@ -20,7 +20,7 @@
 				<enabled>true</enabled>
 				<name>Terminal</name>
 			</startupnotify>
-			<command>qterminal</command>
+			<command>sakura --maximize</command>
 		</action>
 	</keybind>
 
@@ -33,7 +33,7 @@
 				<enabled>true</enabled>
 				<name>Terminal</name>
 			</startupnotify>
-			<command>qterminal</command>
+			<command>sakura --maximize</command>
 		</action>
 	</keybind>
 
@@ -43,7 +43,7 @@
 				<enabled>true</enabled>
 				<name>Terminal</name>
 			</startupnotify>
-			<command>sakura -m</command>
+			<command>qterminal</command>
 		</action>
 	</keybind>
 
