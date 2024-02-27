@@ -4,7 +4,7 @@
 
 | Link | GitHub |
 | ---- | ------ |
-| [EznixOS / Adjustment / Lxqt With Openbox](https://samwhelp.github.io/eznixos-adjustment-iso-profile-start-lxqt/) | [GitHub](https://github.com/samwhelp/eznixos-adjustment-iso-profile-start-lxqt) |
+| [EznixOS / ISO Profile / Lxqt](https://samwhelp.github.io/eznixos-adjustment-iso-profile-start-lxqt/) | [GitHub](https://github.com/samwhelp/eznixos-adjustment-iso-profile-start-lxqt) |
 
 
 
