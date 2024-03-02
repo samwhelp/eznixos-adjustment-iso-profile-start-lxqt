@@ -1,0 +1,16 @@
+[Desktop Entry]
+Categories=Utility;
+Comment=Feh Desktop (Only Wallpaper)
+Exec=feh --bg-fill --randomize /usr/share/backgrounds
+#Exec=feh -bg-fill /usr/share/backgrounds/default.jpg
+GenericName=Feh Desktop
+Hidden=true
+Icon=picom
+Keywords=compositor;composite manager;window effects;transparency;opacity;
+Name=Feh-Desktop
+NoDisplay=false
+StartupNotify=false
+Terminal=false
+TryExec=feh
+Type=Application
+Version=1.0
