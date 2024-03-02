@@ -3,6 +3,15 @@
 # EznixOs Adjustment
 
 
+## Link
+
+* [https://github.com/PapirusDevelopmentTeam/arc-kde](https://github.com/PapirusDevelopmentTeam/arc-kde)
+* [https://store.kde.org/u/x-varlesh-x](https://store.kde.org/u/x-varlesh-x)
+* [Arc Light KDE](https://store.kde.org/p/1815459)
+* [Arc Dark KDE](https://store.kde.org/p/1167638)
+* GitHub / [varlesh](https://github.com/varlesh)
+
+
 ## Docs
 
 | Docs |
