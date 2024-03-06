@@ -18,9 +18,19 @@ openbox
 picom
 
 
+
+
+#kwin-wayland
 kwin-x11
 kwin-addons
 
+
+konsole
+yakuake
+dolphin
+kate
+kwrite
+kdevelop
 
 
 
